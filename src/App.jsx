@@ -10,7 +10,7 @@ import Home from "./pages/home/Home";
 import Details from "./pages/details/Details";
 import SearchResult from "./pages/searchResult/SearchResult";
 import Explore from "./pages/explore/Explore";
-import PageNotFound from "./pages/404/PageNotFound";
+import PageNotFound from "./pages/404/pageNotFound";
 // import Spinner from "./components/spinner/Spinner";
 // const Home = lazy(() => import("./pages/home/Home"));
 function App() {

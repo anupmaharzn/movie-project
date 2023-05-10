@@ -5,6 +5,7 @@ import Four0Four from "../../assets/404.svg";
 import "./style.scss";
 
 import ContentWrapper from "../../components/contentWrapper/ContentWrapper";
+
 const PageNotFound = () => {
   return (
     <div className="pagenotfound">

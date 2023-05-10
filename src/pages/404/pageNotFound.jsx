@@ -5,7 +5,7 @@ import Four0Four from "../../assets/404.svg";
 import "./style.scss";
 
 import ContentWrapper from "../../components/contentWrapper/ContentWrapper";
-const pageNotFound = () => {
+const PageNotFound = () => {
   return (
     <div className="pagenotfound">
       <ContentWrapper>
@@ -17,4 +17,4 @@ const pageNotFound = () => {
   );
 };
 
-export default pageNotFound;
+export default PageNotFound;

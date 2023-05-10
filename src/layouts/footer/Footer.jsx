@@ -22,12 +22,12 @@ const Footer = () => {
           <li className="menuItem">FAQ</li>
         </ul>
         <div className="infoText">
-          Introducing MoviX, the ultimate destination for all your movie needs!
-          Our app offers a vast library of movies, TV shows, and other video
-          content, all available at your fingertips. Another important feature
-          of a movie app is its ability to provide users with a wide range of
-          information about movies. This can include movie trailers, cast and
-          crew information so on.
+          Introducing React-Movie, the ultimate destination for all your movie
+          needs! Our app offers a vast library of movies, TV shows, and other
+          video content, all available at your fingertips. Another important
+          feature of a movie app is its ability to provide users with a wide
+          range of information about movies. This can include movie trailers,
+          cast and crew information so on.
         </div>
         <div className="socialIcons">
           <span className="icon">
